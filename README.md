@@ -1,4 +1,4 @@
-# Machine-Learning-From-Scratch
+# Machine-Learning
 
 A collection of hands-on implementations of Machine Learning concepts using Python, organized topic-wise as I learn and explore the fundamentals.
 
